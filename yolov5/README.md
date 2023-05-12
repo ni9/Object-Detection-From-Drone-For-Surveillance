@@ -44,7 +44,6 @@ Training logs are stored according to the below directory structure
 
 Apart from original log outputs, the `viz_<model_version>.ipynb` is used to show all logs in a more graphical manner in one place.\
 
-Other Graphical Results are Below:
 
 
 
