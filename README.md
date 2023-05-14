@@ -33,7 +33,7 @@ To get started with using these notebooks, you can do the following:
 # Usage
 There are three notebooks available in this repository:
 
-**Click the image below to play**
+ <center>**Click the image below to play**</center>
 [![Yolo v8 Demo Prediction Video Raw](/images/Capture.PNG)](https://www.youtube.com/watch?v=aqQCqUTpJwk&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=2)
 
 1. YOLOv8: This notebook contains the implementation of YOLOv8 for object detection from drone for surveillance.
@@ -42,7 +42,7 @@ There are three notebooks available in this repository:
 
 To use any of the notebooks, open the corresponding notebook in your preferred environment and follow the instructions to train and test the models.
 
-**Click the image below to play**
+<center>**Click the image below to play**</center>
 [![Yolo v8 Demo Prediction Video Result](/images/Capture1.PNG)](https://www.youtube.com/watch?v=iJYsdUKSVtI&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=3)
 
 # Dataset
