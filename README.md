@@ -7,7 +7,7 @@
 
 ![Example Image](/images/drone_detection_network_cameras.png)
 
-## Description
+## Description 
 
 In this project, we aim to accurately detect vehicles
 in drone-captured images using various computer vision
