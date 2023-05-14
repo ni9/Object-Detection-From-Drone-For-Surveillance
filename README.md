@@ -15,7 +15,28 @@ into the effectiveness of different models for vehicle detection
 in drone imagery.
 
 ## Getting Started
-To get started with this project, you can simply clone the repository and run the notebooks using Google Colab, Kaggle, or a GPU-enabled computer. The required datasets for each model can be found on the [Papers With Code](https://paperswithcode.com/dataset/) website.
+To get started with using these notebooks, you can do the following:
+
+1. Clone this repository to your local machine or server.
+2. Open the notebook in your preferred environment (e.g. Google Colab, Kaggle, or a good GPU computer).
+3. Follow the instructions in the notebook to train and test the models.
+
+# Usage
+There are three notebooks available in this repository:
+
+1. YOLOv8: This notebook contains the implementation of YOLOv8 for object detection from drone for surveillance.
+2. YOLOv5: This notebook contains the implementation of YOLOv5 for object detection from drone for surveillance.
+3. YOLOv3: This notebook contains the implementation of YOLOv3 for object detection from drone for surveillance.
+
+To use any of the notebooks, open the corresponding notebook in your preferred environment and follow the instructions to train and test the models.
+
+
+# Dataset
+The dataset used in this project is available at Papers with Code (https://paperswithcode.com/dataset/) website.. Please refer to the individual notebooks for more details on the specific datasets used.
+
+FYI, all the notebooks in this repository can be run by just pulling the repository and running on Google Colab, Kaggle, or a good GPU computer.
+
+Feel free to customize the above format to fit your specific needs. Don't forget to add the necessary information and details for each of the notebooks in your repository. Good luck with your project!
 
 ## Models
 - [YOLOv3](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/yolo3.ipynb)
