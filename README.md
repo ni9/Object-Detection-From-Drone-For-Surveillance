@@ -33,7 +33,7 @@ To get started with using these notebooks, you can do the following:
 # Usage
 There are three notebooks available in this repository:
 
-[![Yolo v8 Demo](/images/detected-1(nimesh).mp4)](https://www.youtube.com/watch?v=iJYsdUKSVtI&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=3)
+[![Yolo v8 Demo Prediction Video](/images/detected-1(nimesh).mp4)](https://www.youtube.com/watch?v=iJYsdUKSVtI&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=3)
 
 1. YOLOv8: This notebook contains the implementation of YOLOv8 for object detection from drone for surveillance.
 2. YOLOv5: This notebook contains the implementation of YOLOv5 for object detection from drone for surveillance.
@@ -41,6 +41,7 @@ There are three notebooks available in this repository:
 
 To use any of the notebooks, open the corresponding notebook in your preferred environment and follow the instructions to train and test the models.
 
+[![Yolo v8 Demo Prediction Video](/images/raw-1(nimesh).mp4)](https://www.youtube.com/watch?v=aqQCqUTpJwk&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=2)
 
 # Dataset
 The dataset used in this project is available at Papers with Code (https://paperswithcode.com/dataset/) website.. Please refer to the individual notebooks for more details on the specific datasets used.
