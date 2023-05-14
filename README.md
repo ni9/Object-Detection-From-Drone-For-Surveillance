@@ -33,7 +33,7 @@ To get started with using these notebooks, you can do the following:
 # Usage
 There are three notebooks available in this repository:
 
-[![Alt text](/path/to/image.png)](http://example.com/)
+[![Click the image below to play]
 
 
 [![Yolo v8 Demo Prediction Video Raw](/images/Capture.PNG)](https://www.youtube.com/watch?v=aqQCqUTpJwk&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=2)
