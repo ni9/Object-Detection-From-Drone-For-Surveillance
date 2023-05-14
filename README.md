@@ -56,7 +56,7 @@ Feel free to customize the above format to fit your specific needs. Don't forget
 
 ![Example Image](/images/Det2.png)
 ### YOLO Models
-- [YOLOv3](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/yolo3.ipynb)
+- [YOLOv3](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/Yolo-v3/yolo3.ipynb)
 - [YOLOv5](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/yolov5/viz_yolov5x.ipynb)
 - [YOLOv8](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/Yolo-V8/YoloV8.ipynb)
 
