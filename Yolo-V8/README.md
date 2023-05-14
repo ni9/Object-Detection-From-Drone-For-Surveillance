@@ -16,21 +16,21 @@ Training logs are stored according to the below directory structure
   - Confusion Matrix
   ![Confusion Matrix](/Yolo-V8/confusion_matrix.png)
   - F1 Curve
-  ![Predicted Image](/images/Det2.png)
+  ![F1 Curve](/Yolo-V8/F1_curve.png)
   - Hyperparamter `.yaml` file
   - Precision Curve
   - Recall Curve
   - Precision-Recall Curve
-  ![Predicted Image](/images/Det2.png)
+  ![Precision-Recall Curve](/Yolo-V8/PR_curve.png)
 
   - Train/Val Loss Curves
-  -![Predicted Image](/images/Det2.png)
+  -![Train/Val Loss Curves](/Yolo-V8/.png)
 
   - mAP@[0.5] Curve
-  ![Predicted Image](/images/Det2.png)
+  ![mAP@[0.5] Curve](/Yolo-V8/.png)
 
   - mAP@[0.5:0.95] Curve
-  ![Predicted Image](/images/Det2.png)
+  ![mAP@[0.5:0.95] Curve](/Yolo-V8/.png)
 
 #### Logs Visualization
 
