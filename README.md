@@ -78,7 +78,7 @@ Each notebook contains detailed instructions for running the respective model. P
 | Yolo-v5-Small             | 0.46    | 6.4                 |
 | Yolo-v5-Extra-Large       | 0.54    | 12.1                |
 | Yolo-v8-Small             | 0.46    | 1.20                |
-| Yolo-v8-Extra-Large       | **0.56**    | **3.53**                |
+| **Yolo-v8-Extra-Large**       | **0.56**    | **3.53**                |
 
 
 ## Conclusion 
