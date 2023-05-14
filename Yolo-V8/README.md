@@ -14,14 +14,23 @@ Training logs are stored according to the below directory structure
 
   - Best and Last Iteration Weights in `.pt` format
   - Confusion Matrix
+  ![Confusion Matrix](/confusion_matrix.png)
   - F1 Curve
+  ![Predicted Image](/images/Det2.png)
   - Hyperparamter `.yaml` file
   - Precision Curve
   - Recall Curve
-  - Precision-Recall AUC Curve
+  - Precision-Recall Curve
+  ![Predicted Image](/images/Det2.png)
+
   - Train/Val Loss Curves
+  -![Predicted Image](/images/Det2.png)
+
   - mAP@[0.5] Curve
+  ![Predicted Image](/images/Det2.png)
+
   - mAP@[0.5:0.95] Curve
+  ![Predicted Image](/images/Det2.png)
 
 #### Logs Visualization
 
