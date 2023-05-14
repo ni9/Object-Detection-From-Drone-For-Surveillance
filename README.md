@@ -33,7 +33,7 @@ To get started with using these notebooks, you can do the following:
 # Usage
 There are three notebooks available in this repository:
 
-[![Example Video](/images/detected-1(nimesh).mp4)]
+[![Yolo v8 Demo](/images/detected-1(nimesh).mp4)](https://www.youtube.com/watch?v=iJYsdUKSVtI&list=PLL2b_SupsxhU2i4IVMQ59_1RCRFsNBv0X&index=3)
 
 1. YOLOv8: This notebook contains the implementation of YOLOv8 for object detection from drone for surveillance.
 2. YOLOv5: This notebook contains the implementation of YOLOv5 for object detection from drone for surveillance.
