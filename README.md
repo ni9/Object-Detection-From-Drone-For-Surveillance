@@ -67,3 +67,16 @@ Feel free to customize the above format to fit your specific needs. Don't forget
 ## Usage
 Each notebook contains detailed instructions for running the respective model. Please refer to the README file included in each model directory for additional information.
 
+##Result
+| Algorithm                 | mAP@0.5 | Inference Time (ms) |
+|---------------------------|---------|---------------------|
+| SSD                       | 0.12    | 30                  |
+| Faster-RCNN (Resnet50)    | 0.23    | 150                 |
+| Faster-RCNN (Resnet50-FPN)| 0.27    | 170                 |
+| Mask-RCNN                 | 0.29    | 200                 |
+| Yolo-v3                   | 0.40    | 22                  |
+| Yolo-v5-Small             | 0.46    | 6.4                 |
+| Yolo-v5-Extra-Large       | 0.54    | 12.1                |
+| Yolo-v8-Small             | 0.46    | 1.20                |
+| Yolo-v8-Extra-Large       | 0.56    | 3.53                |
+
