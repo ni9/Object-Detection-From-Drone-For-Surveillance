@@ -29,7 +29,7 @@ Apart from original log outputs, the `viz_<model_version>.ipynb` is used to show
 
 
 
-![Example Image](/images/drone_detection_network_cameras.png)
+![Predicted Image](/images/Det2.png)
 
 
 
