@@ -80,3 +80,7 @@ Each notebook contains detailed instructions for running the respective model. P
 | Yolo-v8-Small             | 0.46    | 1.20                |
 | Yolo-v8-Extra-Large       | **0.56**    | **3.53**                |
 
+
+## Conclusion 
+In conclusion, we compared several object detection models using the mean average precision (mAP) metric at a threshold of 0.5 and inference time (FPS). The YOLO-v8 Extra-Large model achieved the highest mAP score of 0.56, while the YOLO-v8 Small model had the fastest inference time of 1.20 milliseconds. However, it's important to consider the trade-off between accuracy and speed when selecting a model for a specific use case.
+
