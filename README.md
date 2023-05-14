@@ -39,9 +39,17 @@ FYI, all the notebooks in this repository can be run by just pulling the reposit
 Feel free to customize the above format to fit your specific needs. Don't forget to add the necessary information and details for each of the notebooks in your repository. Good luck with your project!
 
 ## Models
+
+### YOLO Models
 - [YOLOv3](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/yolo3.ipynb)
 - [YOLOv5](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/yolov5/viz_yolov5x.ipynb)
 - [YOLOv8](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/Yolo-V8/YoloV8.ipynb)
+
+### Other Models
+- [SSD](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/SSD/SSD.ipynb)
+- [Faster RCNN](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/Faster-RCNN/Faster_RCNN.ipynb)
+- [Mask RCNN](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/MaskRCNN/Visdrone_MaskRCNN.ipynb)
+
 
 ## Usage
 Each notebook contains detailed instructions for running the respective model. Please refer to the README file included in each model directory for additional information.
