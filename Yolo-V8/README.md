@@ -24,13 +24,9 @@ Training logs are stored according to the below directory structure
   ![Precision-Recall Curve](/Yolo-V8/PR_curve.png)
 
   - Train/Val Loss Curves
-  -![Train/Val Loss Curves](/Yolo-V8/.png)
-
   - mAP@[0.5] Curve
-  ![mAP@[0.5] Curve](/Yolo-V8/.png)
-
   - mAP@[0.5:0.95] Curve
-  ![mAP@[0.5:0.95] Curve](/Yolo-V8/.png)
+  ![mAP@[0.5:0.95] Curve](/Yolo-V8/results.png)
 
 #### Logs Visualization
 
