@@ -16,6 +16,8 @@ RCNN, Single Shot Detector (SSD), Yolo 3, Yolo 5, and Yolo
 into the effectiveness of different models for vehicle detection
 in drone imagery.
 
+![Example Image](/images/Det1.png)
+
 ## Getting Started
 To get started with using these notebooks, you can do the following:
 
