@@ -14,7 +14,7 @@ Training logs are stored according to the below directory structure
 
   - Best and Last Iteration Weights in `.pt` format
   - Confusion Matrix
-  ![Confusion Matrix](/confusion_matrix.png)
+  ![Confusion Matrix](/Yolo-V8/confusion_matrix.png)
   - F1 Curve
   ![Predicted Image](/images/Det2.png)
   - Hyperparamter `.yaml` file
