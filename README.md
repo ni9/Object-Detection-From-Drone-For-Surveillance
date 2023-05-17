@@ -64,6 +64,7 @@ Feel free to customize the above format to fit your specific needs. Don't forget
 - [SSD](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/SSD/SSD.ipynb)
 - [Faster RCNN](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/Faster-RCNN/Faster_RCNN.ipynb)
 - [Mask RCNN](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/MaskRCNN/Visdrone_MaskRCNN.ipynb)
+- [RCNN](https://github.com/ni9/Object-Detection-From-Drone-For-Surveillance/blob/main/rcnn/RCNN.ipynb)
 
 
 ## Usage
@@ -76,6 +77,7 @@ Each notebook contains detailed instructions for running the respective model. P
 | Faster-RCNN (Resnet50)    | 0.23    | 150                 |
 | Faster-RCNN (Resnet50-FPN)| 0.27    | 170                 |
 | Mask-RCNN                 | 0.29    | 200                 |
+| RCNN with Resnet50        | 0.30    | 190                 |
 | Yolo-v3                   | 0.40    | 22                  |
 | Yolo-v5-Small             | 0.46    | 6.4                 |
 | Yolo-v5-Extra-Large       | 0.54    | 12.1                |
